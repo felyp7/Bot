@@ -65,4 +65,4 @@
  | song |  | Currenly playing song on spotify | Developer
  | setgame |  | Change game | Developer
  | settitle |  | Change title | Developer
- | weather |  | Weather status | User
+ | weather |  | Weather in exact country | User
